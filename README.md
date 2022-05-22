@@ -1,6 +1,6 @@
 # Paw Job
 # brainstorm-2022
-## Brainstorm of my App for Mobile Portfolio 2
+## Brainstorm of my App for Mobile Portfolio 1
 ### Author : Lakmali Nirosha Palihakkara
 ### Date : May 22nd, 2022
 ###### This is where all the planning and design for my future application in Mobile Portfolio 2 can be found.
