@@ -5,8 +5,7 @@
 ### Date : May 22nd, 2022
 ###### This is where all the planning and design for my future application in Mobile Portfolio 2 can be found.
 
-
-![repository-open-graph-template](https://user-images.githubusercontent.com/106020901/169699991-c7ad6c94-89dc-4186-8b4f-6c0bbe59b5a8.png)
+![Capture3](https://user-images.githubusercontent.com/106020901/169701540-a40f8fca-f6a5-4912-a02b-f8cf0116e9d2.PNG)
 
 ### Intro
 ###### Paw Job is a mobile app and a web portal for finding and hiring pet jobs. Especially for senior citizens, disabled persons, mentally disordered people, or pet lovers who are expecting to get mental therapy.
