@@ -12,7 +12,7 @@
 ###### Paw Job is a mobile app and a web portal for finding and hiring pet jobs. Especially for senior citizens, disabled persons, mentally disordered people, or pet lovers who are expecting to get mental therapy.
 
 ### Version Control
-###### I am going to be using a private repository in GitHub to track all of my changes and commits while I develop this app. I am currently in the inception phase. You can visit my miro site that is running live [here] (https://miro.com/app/board/uXjVO0DTTqc=/?share_link_id=775356287196).
+###### I am going to be using a private repository in GitHub to track all of my changes and commits while I develop this app. I am currently in the inception phase. You can visit my miro site that is running live [here](https://miro.com/app/board/uXjVO0DTTqc=/?share_link_id=775356287196).
 
 ### Inception Phase
 ###### I am currently in the inception phase.
