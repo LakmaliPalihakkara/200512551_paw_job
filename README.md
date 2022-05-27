@@ -7,16 +7,16 @@
 
 ![Capture](https://user-images.githubusercontent.com/106020901/170673022-b79ec229-5a73-46ba-86a7-ad59762d5fc0.JPG)
 
-### Intro
+## Intro
 ###### Paw Job is a mobile app and a web portal for finding and hiring pet jobs. Especially for senior citizens, disabled persons, mentally disordered people who are receiving treatments in mntal hospitals or staying at children/ adult ophanagers. Moreover, office staff or pet lovers also can get this service.
 
-### Version Control
+## Version Control
 ###### I am going to be using a private repository in GitHub to track all of my changes and commits while I develop this app. I am currently in the inception phase. You can visit my miro site that is running live [here](https://miro.com/app/board/uXjVO0DTTqc=/?share_link_id=775356287196).
 
-### Inception Phase
+## Inception Phase
 ###### I am currently in the inception phase.
 
-### UML Diagrams 
+## UML Diagrams 
 
 ### Use Case Diagram
 ![usecase-diagram](https://user-images.githubusercontent.com/106020901/170678973-47ba1d45-b639-4475-997d-bff1020736b3.jpeg)
