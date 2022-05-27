@@ -17,6 +17,9 @@
 ###### I am currently in the inception phase.
 
 ### UML Diagrams 
-![usecase-diagram](https://user-images.githubusercontent.com/106020901/170670903-2db515d2-a785-47a0-99ad-8dfcd9fc5933.jpeg)
 
+### Use Case Diagram
+![usecase-diagram](https://user-images.githubusercontent.com/106020901/170678973-47ba1d45-b639-4475-997d-bff1020736b3.jpeg)
+
+### Activity Diagram
 ![activity-diagram](https://user-images.githubusercontent.com/106020901/169701301-2e210774-a4f8-4798-9fe0-8868f779feab.jpeg)
