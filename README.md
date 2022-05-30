@@ -19,7 +19,7 @@
 ## UML Diagrams 
 
 ### Use Case Diagram
-![usecase-diagram](https://user-images.githubusercontent.com/106020901/170678973-47ba1d45-b639-4475-997d-bff1020736b3.jpeg)
+![usecase-diagram](https://user-images.githubusercontent.com/106020901/171057955-77819dbf-58a3-4a84-8885-00ed6666f4b0.jpeg)
 
 ### Activity Diagram
 ![activity-diagram](https://user-images.githubusercontent.com/106020901/169701301-2e210774-a4f8-4798-9fe0-8868f779feab.jpeg)
